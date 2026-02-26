@@ -1,0 +1,19 @@
+--- Q1 Commands Demonstration ---
+Thu Feb 26 21:12:18 IST 2026
+/Users/ayushmehta/Desktop/OSG4/test_dir
+Hello World
+test_file.txt
+--- Q1 Complete ---
+--- Q2 Even/Odd ---
+42 is Even
+7 is Odd
+--- Q3 Leap Year ---
+2024 is a Leap Year
+2023 is not a Leap Year
+1900 is not a Leap Year
+2000 is a Leap Year
+--- Q4 Swap ---
+Before swapping: a=15, b=27
+After swapping: a=27, b=15
+--- Q5 Sum of Digits ---
+Sum of digits of 12345 is 15
